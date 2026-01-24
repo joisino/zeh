@@ -1,0 +1,13 @@
+*
+!**/
+
+!*.py
+!*.sh
+!*.md
+!*.toml
+!*.lock
+!.gitignore
+
+!figures/qwen_zeh_acc.png
+!data/c4_frequency_results.json
+!data/grid_results/*.json
